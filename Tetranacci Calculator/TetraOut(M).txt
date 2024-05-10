@@ -1,0 +1,7 @@
+Multiple Tetranacci(5): 2, Time - 375.000000 nanoseconds.
+Multiple Tetranacci(10): 56, Time - 7042.000000 nanoseconds.
+Multiple Tetranacci(15): 1490, Time - 545667.000000 nanoseconds.
+Multiple Tetranacci(20): 39648, Time - 475916.000000 nanoseconds.
+Multiple Tetranacci(25): 1055026, Time - 8101458.000000 nanoseconds.
+Multiple Tetranacci(30): 28074040, Time - 181905791.000000 nanoseconds.
+Multiple Tetranacci(35): 747044834, Time - 4297953750.000000 nanoseconds.
